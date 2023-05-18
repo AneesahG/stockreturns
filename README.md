@@ -1,7 +1,7 @@
 # Time Series Analysis and GARCH Model testing 
 
 ## Prerequisites
-You will need [RStudio](https://posit.co/products/open-source/rstudio/). Other packages that are needed are TSA, astea, tseries, BatchGetSymbols, fGarch and fBasics.
+You will need [RStudio](https://posit.co/products/open-source/rstudio/). Other packages that are needed are TSA, astsa, tseries, BatchGetSymbols, fGarch and fBasics.
 
 ```
 {r message=FALSE, warning=FALSE}
